@@ -1,0 +1,1 @@
+# This repository contains data about houses in Connecticut listed on Zillow for sale early in the year 2021. We build a linear model to predict the price, using topic models to include the description.
